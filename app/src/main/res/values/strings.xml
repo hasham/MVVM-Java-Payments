@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM Payments</string>
+    <string name="proceed">Proceed</string>
+    <string name="payment">Payment Methods</string>
+</resources>
